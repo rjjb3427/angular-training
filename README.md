@@ -29,5 +29,5 @@ Angular en basé sur la logique `MVC`. (modèle vue controller).
 
 ## Resources
 
-* [Graphikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r)
+* [Graphikart - AngularJS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r)
 * [Brad Traversy](https://www.youtube.com/playlist?list=PLillGF-RfqbbZnAJlEzttBrbkAO27U_hd) _Angular 2_
