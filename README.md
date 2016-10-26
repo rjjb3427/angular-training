@@ -1,8 +1,10 @@
 # AngularJS
 
-> Before AngularJS, make [Javascript](https://github.com/simplonco/js-training)
+> [Training](https://github.com/simplonco/training/) / [JavaScript](https://github.com/simplonco/js-training/) / AngularJS
 
 ![](logo-angular.png)
+
+> Before AngularJS, make [Javascript](https://github.com/simplonco/js-training/)
 
 ## What's AngularJS?
 
