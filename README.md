@@ -8,7 +8,7 @@
 
 ## What's AngularJS?
 
-AngularJS est un _framework_ écrit en [javascript](AngularJS est un framework écrit en javascript par Google libre et open-source qui permet d'améliorer, au même titre que JQUERY, la syntaxe de javascript ainsi que la productivité du développeur. Angular en basé sur la logique MVC. (modèle vue controller).) par Google libre et _open-source_ qui permet d'améliorer, au même titre que [jQuery](https://github.com/simplonco/jquery-training), la syntaxe de javascript ainsi que la productivité du développeur. 
+AngularJS est un _framework_ écrit en [javascript](https://github.com/simplonco/js-training) par Google libre et _open-source_ qui permet d'améliorer, au même titre que [jQuery](https://github.com/simplonco/jquery-training), la syntaxe de javascript ainsi que la productivité du développeur. 
 
 Angular en basé sur la logique `MVC`. (modèle vue controller).
 
