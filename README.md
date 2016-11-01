@@ -14,8 +14,8 @@ Angular en basé sur la logique `MVC` (modèle vue controller).
 
 ## Courses
 
-* `pdf` [Started with AngularJS](https://github.com/simplonco/angular-training/blob/master/training/Tutoriel-AngularJS-Design-Pattern-MVC.pdf) _Let's go !_ :space_invader:
-* `pdf` [Started with AngularJS II](https://github.com/simplonco/angular-training/blob/master/training/Tutoriel-AngularJS-Partie-2.pdf) _the adventure goes on_ :black_joker:
+* `pdf` [Started with AngularJS](https://github.com/simplonco/angular-training/blob/master/courses/Tutoriel AngularJS - Design Pattern MVC.pdf) _Let's go !_ :space_invader:
+* `pdf` [Started with AngularJS II](https://github.com/simplonco/angular-training/blob/master/training/Tutoriel AngularJS - Partie 2.pdf) _the adventure goes on_ :black_joker:
 
 ## Exercises
 
