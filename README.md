@@ -10,7 +10,7 @@
 
 AngularJS est un _framework_ écrit en [Javascript](https://github.com/simplonco/js-training) par Google libre et _open-source_ qui permet d'améliorer, au même titre que [jQuery](https://github.com/simplonco/jquery-training), la syntaxe de javascript ainsi que la productivité du développeur. 
 
-Angular en basé sur la logique `MVC`. (modèle vue controller).
+Angular en basé sur la logique `MVC` (modèle vue controller).
 
 ## Courses
 
