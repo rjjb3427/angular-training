@@ -1,0 +1,3 @@
+[submodule "exercises/angular-workshop"]
+	path = exercises/angular-workshop
+	url = https://github.com/simplonco/angular-workshop
