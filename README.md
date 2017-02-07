@@ -31,3 +31,9 @@ Angular en basé sur la logique `MVC` (modèle vue controller).
 
 * [Graphikart - AngularJS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r)
 * [Brad Traversy](https://www.youtube.com/playlist?list=PLillGF-RfqbbZnAJlEzttBrbkAO27U_hd) _Angular 2_
+
+## How to Contribute
+
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/simplonco/angular-training/issues)!
